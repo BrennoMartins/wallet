@@ -5,5 +5,5 @@
    :dbname "finance"
    :host "localhost"
    :port 5432
-   :user "****"
+   :user "usuario"
    :password "1234"})
